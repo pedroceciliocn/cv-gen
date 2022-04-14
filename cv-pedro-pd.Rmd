@@ -1,0 +1,223 @@
+---
+title: "CV Pedro Neto"
+author: Pedro Neto
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+<!-- ![Pedro Neto](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%} -->
+
+
+Contato e mais{#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> pccn@cin.ufpe.br
+- <i class="fa fa-linkedin"></i> [pedroceciliocn](linkedin.com/pedroceciliocn)
+- <i class="fa fa-twitter"></i> [pedroissoai](https://twitter.com/pedroissoai)
+- <i class="fa fa-github"></i> [pedroceciliocn](https://github.com/pedroceciliocn)
+<!-- - <i class="fa fa-phone"></i> +55 87 99995-2777 -->
+- <i class="fa fa-lastfm"></i> [pedroceciliocn](https://www.last.fm/user/pedroceciliocn)
+
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- [Proficiência C2 na língua inglesa segundo EF SET](https://www.efset.org/cert/LZxJJq)
+
+- Conhecimento intermediário em R e Python
+
+- Conhecimento básico em SQL
+
+- Conhecimento básico em HTML e CSS
+
+- Conhecimento básico em Photoshop e Premiere
+
+- Conhecimento básico no pacote Office
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Esse documento foi feito com o auxílio do pacote do R [**pagedown**](https://github.com/rstudio/pagedown).
+
+Última atualiação em `r format(Sys.Date(), "%d/%m/%Y")`.
+
+
+
+Main
+================================================================================
+
+Pedro Neto {#title}
+--------------------------------------------------------------------------------
+
+### Estudante do CIn UFPE
+
+Bacharelando em Sistemas de Informação, no Centro de Informática da Universidade Federal de Pernambuco. Atualmente no 3º período do curso e aperfeiçoando conhecimentos sobre gestão, informação, dados. Aprimorando habilidades em ferramentas como Python, R, SQL, HTML, CSS e iniciando aprendizado em Javascript. Curioso, determinado, insistente, buscando oportunidades de crescimento.
+
+
+Educação {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Centro de Informática - UFPE
+
+Bacharelado em Sistemas de Informação
+
+Recife, Pernambuco
+
+2024 - 2020
+
+em andamento
+
+### Universidade Federal do Vale do São Francisco - UNIVASF
+
+Bacharelado em Administração
+
+Petrolina, Pernambuco
+
+2020 - 2019
+
+Interrompido
+
+
+<!-- Research Experience {data-icon=laptop} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Graduate Research Assistant -->
+
+<!-- Beijing Institute of Genomics, Chinese Academy of Sciences -->
+
+<!-- Beijing, China -->
+
+<!-- 2011 - 2014 -->
+
+<!-- - Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome. -->
+<!-- - Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway. -->
+
+<!-- ### Bioinformatican -->
+
+<!-- My Health Gene Technology Co., Ltd. -->
+
+<!-- Beijing, China -->
+
+<!-- 2015 - 2016 -->
+
+<!-- - Investigated how cancer cells spread to other parts of the body at the single cell level. -->
+
+<!-- ### Visiting Scientist -->
+
+<!-- University of Alabama at Birmingham -->
+
+<!-- AL, USA -->
+
+<!-- 2016 - 2018 -->
+
+<!-- - Investigated the role of mitochondria in development of cancer. -->
+<!-- - Investigated the evolution of genome architecture and its role in important evolutionary events. -->
+<!-- - Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome. -->
+
+
+<!-- Professional Experience {data-icon=suitcase} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- ### Data Scientist, intern -->
+
+<!-- SupStat Inc. -->
+
+<!-- Beijing, China -->
+
+<!-- 2014 -->
+
+<!-- ::: concise -->
+<!-- - Taught R language to beginners.  -->
+<!-- - Wrote Shiny app demos. -->
+<!-- - Converted statistical tutorials from SPSS to R language. -->
+<!-- ::: -->
+
+<!-- ### Bioinformatician -->
+
+<!-- My Health Gene Technology Co., Ltd. -->
+
+<!-- Beijing, China -->
+
+<!-- 2015 - 2016 -->
+
+<!-- ::: concise -->
+<!-- - Analyzed whole-exome sequencing data.  -->
+<!-- - Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq. -->
+<!-- - Studied tumor metastasis and wrote research reports.  -->
+<!-- - Also did case studies to identify the genetic defect causing rare disease. -->
+<!-- ::: -->
+
+
+Experiência na Universidade {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Monitor de Programação 1
+
+Monitor de Programação 1 para a turma de Sistemas de Informação no semestre 2021.1 e Monitor de Programação 1/Introdução a Programação para as turmas de Sistemas de Informação e Ciência da Computação no semestre 2021.2 do CIn - UFPE.
+
+Recife, Pernambuco
+
+2022 - 2021
+
+### Voluntário como editor/criador de conteúdo nas páginas do [YouTube](https://youtube.com/unatiunivasf) e [Instagram](https://instagram.com/unatiunivasf/) da UNATI/UNIVASF
+
+Editor de conteúdo, publicações e vídeos sobre saúde mental e exercícios com colegas dos cursos de Psicologia e Educação Física do mesmo projeto voltado para idosos, durante a pandemia covid-19. 
+
+Petrolina, Pernambuco
+
+2021 - 2020
+
+### Voluntário como palestrante UNATI/UNIVASF
+
+Ministrei palestras sobre tecnologia, redes sociais e aplicativos para dispositivos móveis voltados para idosos no projeto de extensão UNATI (Universidade Aberta à Terceira Idade) da UNIVASF (Universidade Federal do Vale do São Francisco). Também ministrei palestras sobre segurança digital para idosos, orientando sobre cuidados importantes no uso da internet e redes sociais. Falei sobre aplicativos úteis para smartphones, como aplicativos de transporte (públicos e privados), podcasts, mídias sociais, fotografia. Dei dicas de como usar o smartphone de forma mais fácil e simples. Além disso, dei outra palestra sobre como funciona a rede de internet, como foi desenvolvida, de onde vem e como chega aos seus dispositivos.
+
+Petrolina, Pernambuco
+
+2020 - 2019
+
+### Voluntário como organizador UNATI/UNIVASF no 1º Festival 60+
+
+Voluntário como monitor e organizador do evento Festival 60+, que reuniu a comunidade da UNIVASF, UNEB, FACAPE, UPE, UFPB e SESC em mais de 40 atividades envolvendo exercícios físicos, recreação, jogos, oficinas e de serviços de saúde voltadas para os idosos da região de Juazeiro e Petrolina.
+
+Petrolina, Pernambuco
+
+2019
+
+Certificados {data-icon=file}
+--------------------------------------------------------------------------------
+### [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+
+[Curso online da Universidade de Michigan oferecido pelo Coursera.](https://www.coursera.org/account/accomplishments/verify/9KYZ4DX4SJAE)
+
+[Coursera](https://www.coursera.org/)
+
+2021
+
+
+
+### [SQL Fundamentals SKILL TRACK](https://learn.datacamp.com/skill-tracks/sql-fundamentals)
+
+5 cursos completos totalizando 21 horas de estudo sobre a linguagem SQL e suas funcionalidades mais fundamentais.
+
+[datacamp](https://learn.datacamp.com/)
+
+2021 
+
+### [Data Scientist with R Track](https://datacamp.com/profile/pedroceciliocn)
+
+[19 cursos completados totalizando 76 horas de estudo em uma introdução para a carreira de Cientista/Analsita de Dados usando a linguagem R.](https://www.datacamp.com/statement-of-accomplishment/track/bc1f187365f1d876373d4bf02194090452333e65)
+
+[datacamp](https://learn.datacamp.com/)
+
+2021 
